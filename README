@@ -1,0 +1,9 @@
+Pacsar
+======
+
+Requirements
+------------
+
+* PHP
+* Composer
+* dcmtk (for `storescp`)

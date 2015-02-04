@@ -1,0 +1,24 @@
+{
+    "name": "archfizz/pacsar",
+
+    "require": {
+        "php": ">=5.3.3",
+
+        "symfony/yaml": "~2.6",
+        "symfony/dependency-injection": "~2.6",
+        "symfony/console": "~2.6",
+        "symfony/process": "~2.6"
+    },
+
+    "require-dev": {
+        "phpspec/phpspec": "~2.1"
+    },
+
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+
+    "config": {
+        "bin-dir": "bin/"
+    }
+}

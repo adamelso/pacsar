@@ -1,0 +1,33 @@
+[IMPORT] 20120906 9:58:54 - Received VAUGHAN^DEAN from TEST -> DEANO
+[IMPORT] 20120906 9:58:54 - Ran module TEST.php
+[IMPORT] 20120906 9:58:54 - Array
+(
+    [name] => VAUGHAN^DEAN
+    [firstname] => DEAN
+    [lastname] => VAUGHAN
+    [id] => 345345
+    [appt_date] => 2011-03-10
+    [day] => 10
+    [month] => 03
+    [year] => 2011
+    [dob] => 19800301
+    [study_uid] => 1.2.826.0.1.3680043.2.1074.90089.10003.100.19318.3121114637
+    [study_desc] => 
+    [accession] => demofry80666
+    [history] => Patient's State: HI
+    [institution] => DEANLAND, AR
+    [series_number] => 1001
+    [instance_number] => 1
+    [sop_instance] => 1.2.826.0.1.3680043.2.1074.90089.1.71.10001008.1
+    [transfer_syntax] => JPEGBaseline
+    [body_part_examined] => 
+    [image_date] => 2012-09-06 9:58:54
+    [image_time] => 
+    [modality] => CR
+)
+
+[IMPORT] 20120906 9:58:54 - Created ./received_images/DEANO/2011/03/10/1.2.826.0.1.3680043.2.1074.90089.10003.100.19318.3121114637
+[IMPORT] 20120906 9:58:54 - Moved image to ./received_images/DEANO/2011/03/10/1.2.826.0.1.3680043.2.1074.90089.10003.100.19318.3121114637/CR.1.2.826.0.1.3680043.2.1074.90089.1.71.10001008.1.dcm
+[IMPORT] 20120906 9:58:54 - Creating thumbnail
+[IMPORT] 20120906 9:58:54 - Thumbnail created
+[IMPORT] 20120906 9:58:54 - Successfully imported CR.1.2.826.0.1.3680043.2.1074.90089.1.71.10001008.1.
